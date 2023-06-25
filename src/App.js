@@ -48,7 +48,7 @@ class App extends React.Component {
         </div>
         <div className="content">
           <div className="title-holder">
-            <h1 style={{ fontSize: 104 }}>Rock8s</h1>
+            <h1 style={{ fontSize: 104 }}>rock8s</h1>
             <p style={{ fontSize: 28 }}>
               A kubernetes cluster powered by Rancher, OLM and Kops
             </p>
