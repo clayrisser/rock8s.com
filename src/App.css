@@ -3,11 +3,12 @@
   height: 80%;
   margin: auto;
   min-height: 512px;
-  box-shadow: 0px 35px 70px 0px rgba(255, 163, 125, 0.65), 0px 30px 40px -10px rgba(255, 100, 124, 0.55);
-  background: linear-gradient(180deg, rgba(255, 163, 125, 1) 0%, rgba(255, 99, 124, 1) 100%);
+  box-shadow: 0px 35px 70px 0px rgb(0, 9, 43), 0px 30px 40px -10px rgba(0, 0, 0, 0.55);
+  background: linear-gradient(180deg, rgb(1, 0, 39) 0%,rgb(25, 0, 165) 100%);
   border-radius: 10px;
   display: flex;
   flex-direction: column;
+  background-image: url("./assets/images/rock8s.jpeg");
 }
 
 @media screen and (max-width: 512px) {
@@ -39,6 +40,8 @@
 
 .social {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .social a {
@@ -56,7 +59,8 @@
 }
 
 .social .icon {
-  width: 18px;
+  width: 38px;
+  padding: 4px;
   fill: #fff;
 }
 
