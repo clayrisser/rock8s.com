@@ -21,7 +21,7 @@ class App extends React.Component {
               <IconDiscord className="icon" />
             </a>
             <a
-              href="https://twitter.com/rock8s.com"
+              href="https://twitter.com/rok8s"
               title=""
               target="_blank"
               rel="noopener noreferrer"
