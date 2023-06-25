@@ -29,7 +29,7 @@ class App extends React.Component {
               <IconTwitter className="icon" />
             </a>
             <a
-              href="https://gitlab.com/clayrisser/rock8s"
+              href="https://github.com/clayrisser/rock8s"
               title="GitHub"
               target="_blank"
               rel="noopener noreferrer"
